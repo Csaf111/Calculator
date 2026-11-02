@@ -1,0 +1,1 @@
+Temporary GitHub connector permission test. This file is intended to be removed after the test.
